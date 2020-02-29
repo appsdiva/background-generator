@@ -1,2 +1,2 @@
-# Background-generator
-A linear gradient background generator using CSS3 and JavaScript. it gives rgb values.
+# Background-Generator
+A linear gradient background generator using CSS3 and JavaScript. It gives rgb values.
